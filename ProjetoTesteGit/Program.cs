@@ -9,6 +9,8 @@ namespace ProjetoTesteGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Como você esta hoje?");
+            
+            // Testanto o git push
         }
     }
 }
